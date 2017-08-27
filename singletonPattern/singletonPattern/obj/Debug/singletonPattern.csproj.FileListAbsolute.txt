@@ -1,0 +1,10 @@
+C:\Users\Anna\source\repos\singletonPattern\singletonPattern\bin\Debug\singletonPattern.exe.config
+C:\Users\Anna\source\repos\singletonPattern\singletonPattern\bin\Debug\singletonPattern.exe
+C:\Users\Anna\source\repos\singletonPattern\singletonPattern\bin\Debug\singletonPattern.pdb
+C:\Users\Anna\source\repos\singletonPattern\singletonPattern\obj\Debug\singletonPattern.csprojResolveAssemblyReference.cache
+C:\Users\Anna\source\repos\singletonPattern\singletonPattern\obj\Debug\singletonPattern.Form1.resources
+C:\Users\Anna\source\repos\singletonPattern\singletonPattern\obj\Debug\singletonPattern.Properties.Resources.resources
+C:\Users\Anna\source\repos\singletonPattern\singletonPattern\obj\Debug\singletonPattern.csproj.GenerateResource.Cache
+C:\Users\Anna\source\repos\singletonPattern\singletonPattern\obj\Debug\singletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\singletonPattern\singletonPattern\obj\Debug\singletonPattern.exe
+C:\Users\Anna\source\repos\singletonPattern\singletonPattern\obj\Debug\singletonPattern.pdb
