@@ -1,0 +1,11 @@
+C:\Users\Anna\source\repos\observerPattern\observerPattern\bin\Debug\observerPattern.exe.config
+C:\Users\Anna\source\repos\observerPattern\observerPattern\bin\Debug\observerPattern.exe
+C:\Users\Anna\source\repos\observerPattern\observerPattern\bin\Debug\observerPattern.pdb
+C:\Users\Anna\source\repos\observerPattern\observerPattern\obj\Debug\observerPattern.csprojResolveAssemblyReference.cache
+C:\Users\Anna\source\repos\observerPattern\observerPattern\obj\Debug\observerPattern.Form1.resources
+C:\Users\Anna\source\repos\observerPattern\observerPattern\obj\Debug\observerPattern.Form2.resources
+C:\Users\Anna\source\repos\observerPattern\observerPattern\obj\Debug\observerPattern.Properties.Resources.resources
+C:\Users\Anna\source\repos\observerPattern\observerPattern\obj\Debug\observerPattern.csproj.GenerateResource.Cache
+C:\Users\Anna\source\repos\observerPattern\observerPattern\obj\Debug\observerPattern.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\observerPattern\observerPattern\obj\Debug\observerPattern.exe
+C:\Users\Anna\source\repos\observerPattern\observerPattern\obj\Debug\observerPattern.pdb
