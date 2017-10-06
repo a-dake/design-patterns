@@ -1,0 +1,10 @@
+C:\Users\Anna\Dropbox\facadeDemo\facadeDemo\obj\Debug\facadeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Dropbox\facadeDemo\facadeDemo\obj\Debug\facadeDemo.Form1.resources
+C:\Users\Anna\Dropbox\facadeDemo\facadeDemo\obj\Debug\facadeDemo.Properties.Resources.resources
+C:\Users\Anna\Dropbox\facadeDemo\facadeDemo\obj\Debug\facadeDemo.csproj.GenerateResource.Cache
+C:\Users\Anna\Dropbox\facadeDemo\facadeDemo\obj\Debug\facadeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Dropbox\facadeDemo\facadeDemo\bin\Debug\facadeDemo.exe.config
+C:\Users\Anna\Dropbox\facadeDemo\facadeDemo\bin\Debug\facadeDemo.exe
+C:\Users\Anna\Dropbox\facadeDemo\facadeDemo\bin\Debug\facadeDemo.pdb
+C:\Users\Anna\Dropbox\facadeDemo\facadeDemo\obj\Debug\facadeDemo.exe
+C:\Users\Anna\Dropbox\facadeDemo\facadeDemo\obj\Debug\facadeDemo.pdb
