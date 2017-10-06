@@ -1,0 +1,10 @@
+c:\users\anna\source\repos\factoryMethodPattern\factoryMethodPattern\bin\Debug\factoryMethodPattern.exe.config
+c:\users\anna\source\repos\factoryMethodPattern\factoryMethodPattern\bin\Debug\factoryMethodPattern.exe
+c:\users\anna\source\repos\factoryMethodPattern\factoryMethodPattern\bin\Debug\factoryMethodPattern.pdb
+c:\users\anna\source\repos\factoryMethodPattern\factoryMethodPattern\obj\Debug\factoryMethodPattern.csprojResolveAssemblyReference.cache
+c:\users\anna\source\repos\factoryMethodPattern\factoryMethodPattern\obj\Debug\factoryMethodPattern.Form1.resources
+c:\users\anna\source\repos\factoryMethodPattern\factoryMethodPattern\obj\Debug\factoryMethodPattern.Properties.Resources.resources
+c:\users\anna\source\repos\factoryMethodPattern\factoryMethodPattern\obj\Debug\factoryMethodPattern.csproj.GenerateResource.Cache
+c:\users\anna\source\repos\factoryMethodPattern\factoryMethodPattern\obj\Debug\factoryMethodPattern.csproj.CoreCompileInputs.cache
+c:\users\anna\source\repos\factoryMethodPattern\factoryMethodPattern\obj\Debug\factoryMethodPattern.exe
+c:\users\anna\source\repos\factoryMethodPattern\factoryMethodPattern\obj\Debug\factoryMethodPattern.pdb
