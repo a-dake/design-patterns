@@ -1,0 +1,10 @@
+C:\Users\Anna\source\repos\adapterPattern\adapterPattern\bin\Debug\adapterPattern.exe.config
+C:\Users\Anna\source\repos\adapterPattern\adapterPattern\bin\Debug\adapterPattern.exe
+C:\Users\Anna\source\repos\adapterPattern\adapterPattern\bin\Debug\adapterPattern.pdb
+C:\Users\Anna\source\repos\adapterPattern\adapterPattern\obj\Debug\adapterPattern.csprojResolveAssemblyReference.cache
+C:\Users\Anna\source\repos\adapterPattern\adapterPattern\obj\Debug\adapterPattern.Form1.resources
+C:\Users\Anna\source\repos\adapterPattern\adapterPattern\obj\Debug\adapterPattern.Properties.Resources.resources
+C:\Users\Anna\source\repos\adapterPattern\adapterPattern\obj\Debug\adapterPattern.csproj.GenerateResource.Cache
+C:\Users\Anna\source\repos\adapterPattern\adapterPattern\obj\Debug\adapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\adapterPattern\adapterPattern\obj\Debug\adapterPattern.exe
+C:\Users\Anna\source\repos\adapterPattern\adapterPattern\obj\Debug\adapterPattern.pdb
